@@ -1,0 +1,40 @@
+*{
+    background-color: burlywood;
+}
+
+.titulo{
+    text-align: center;
+    color: blueviolet;
+
+}h2{
+    text-align: justify;
+    color: brown;
+}
+p{
+    text-align: center;
+}
+
+.leon{
+    width: 300px; 
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.elefante{
+    width: 300px; 
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.aguila{
+    width: 300px; 
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.tiburon{
+    width: 300px; 
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
